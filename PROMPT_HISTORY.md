@@ -1,3 +1,8 @@
+============================CHATGPT CONVERSATION HISTORY=================================
+https://chatgpt.com/share/6aafe14b-ed10-83e8-9cd8-880a74b4c8a2
+=========================================================================================
+
+CLAUDE CODE PROMPT HISTORY
 ------------------------------------------------------------------------
 
 The aim of this session is simple quick prototyping and quick deployment its timeboxed to around \~2hr 40 min to complete the whole project and push to github read the txt to gain context and we will discuss the project
