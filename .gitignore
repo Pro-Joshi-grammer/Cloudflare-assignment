@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local Cloudflare dev artifacts (workerd state, KV/DO local storage)
+.wrangler/
+
+# Local secrets — never commit real credentials
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+
+# Logs
+*.log
+logs/
+
+# Editor / OS
+.DS_Store
+.idea/
+Thumbs.db
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Scratch / one-off scripts not meant for the repo
+test-agent.mjs

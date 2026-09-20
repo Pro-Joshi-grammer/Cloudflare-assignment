@@ -1,0 +1,20 @@
+{
+  "slug": "software-engineer",
+  "title": "Software Engineer",
+  "summary": "Build and maintain product-facing backend and full-stack systems. Strong engineering fundamentals, clean code, and the ability to ship features end-to-end reliably.",
+  "must_have": [
+    "Backend engineering (REST APIs, services)",
+    "One of: TypeScript/Node.js, Go, Java, Python",
+    "Databases (SQL and/or NoSQL)",
+    "Testing and code quality",
+    "Strong CS fundamentals (data structures, algorithms, systems)",
+    "2+ years professional software development"
+  ],
+  "nice_to_have": [
+    "Cloud platforms (AWS, GCP, Azure, Cloudflare)",
+    "Frontend experience (React)",
+    "Message queues / event-driven architecture",
+    "Observability (logging, metrics, tracing)",
+    "CI/CD pipelines"
+  ]
+}

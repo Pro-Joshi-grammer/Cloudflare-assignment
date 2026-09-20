@@ -1,0 +1,20 @@
+{
+  "slug": "senior-software-engineer",
+  "title": "Senior Software Engineer",
+  "summary": "Senior individual contributor leading design and delivery of large, distributed systems. Owns reliability, mentors engineers, and makes pragmatic trade-offs under ambiguity.",
+  "must_have": [
+    "8+ years software engineering experience",
+    "Distributed systems architecture & design (scale, consistency, failure modes)",
+    "Deep expertise in at least one of: Go, TypeScript/Node.js, Java",
+    "Leading design reviews / architecture decisions on large systems",
+    "Experience owning production reliability (SLOs, incident response)",
+    "Mentoring / technical leadership"
+  ],
+  "nice_to_have": [
+    "High-throughput / low-latency systems at scale",
+    "Data-heavy systems (streaming, analytics, ML platforms)",
+    "Registry / orchestration (Kubernetes, service meshes)",
+    "Cross-org/big-company experience",
+    "Cost optimization at scale"
+  ]
+}

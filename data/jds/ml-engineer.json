@@ -1,0 +1,20 @@
+{
+  "slug": "ml-engineer",
+  "title": "ML Engineer",
+  "summary": "Designing, training and shipping production ML systems. Zero-to-one in the loop from feature pipeline to model serving, with a focus on NLP/LLM applications.",
+  "must_have": [
+    "Python",
+    "PyTorch or TensorFlow",
+    "NLP and/or LLM experience (RAG, prompt engineering, fine-tuning)",
+    "Model serving / inference pipeline deployment",
+    "Feature engineering and experimentation",
+    "3+ years applied ML experience"
+  ],
+  "nice_to_have": [
+    "Vector databases / semantic search",
+    "Kubernetes / Docker",
+    "Distributed training",
+    "MLOps (CI/CD for models, monitoring, drift detection)",
+    "Backend API development"
+  ]
+}
